@@ -9,10 +9,10 @@
     <td style="width: 25%; border: none;">
       <img src="https://nahiim.github.io/vids/cwar1.png" alt="CWAR" width="150" height="300">
     </td>
-    <td style="width: 75%; border: none;">
+    <td style="width: 25%; border: none;">
       <img src="https://nahiim.github.io/vids/cwar3.png" alt="CWAR" width="150" height="300">
     </td>
-    <td style="width: 75%; border: none;">
+    <td style="width: 25%; border: none;">
       <img src="https://nahiim.github.io/vids/cwar2.png" alt="CWAR" width="150" height="300">
     </td>
   </tr>
