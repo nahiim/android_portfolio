@@ -3,9 +3,7 @@
 ## 📱🎮 [Corona Wars](https://play.google.com/store/apps/details?id=com.xploore.coronawars&hl=en_US)
 - 2D space shooter android game entirely from scratch using Java on Android Studio. I handled everything from development to deployment to shipping. Assets like sound, music, icons and sprites were sourced from free asset stores on the internet.
 - The source code is not available because I developed it for a client. However, it is availble on [Google Play Store.](https://play.google.com/store/apps/details?id=com.xploore.coronawars&hl=en_US)
-<img src="https://nahiim.github.io/vids/cwar1.png" alt="CWAR" width="150" height="300">
-<img src="https://nahiim.github.io/vids/cwar3.png" alt="CWAR" width="150" height="300">
-<img src="https://nahiim.github.io/vids/cwar2.png" alt="CWAR" width="150" height="300">
+
 
   <tr>    
     <td style="width: 25%; border: none;">
