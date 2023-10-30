@@ -21,7 +21,7 @@
 - A live weather forecasting app
 - Uses volley to fetch weather data from open-mateo via REST API.
 
-## 🤖 [SAFBOT](https://github.com/nahiim/android_portfolio/apps/safbot)
+## 🤖 [Fire Robot](https://github.com/nahiim/fire-robot)
 - An Android app build to operate a robotic arm-mounted vehicle.
 - Uses volley to send http request via POST method to an ESP32 module to control the vehicle and robotic arm movement.
 
